@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Rock+Salt&display=swap');
+
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -6,24 +8,42 @@ nav a{
     text-align: center;
     color:black;
     text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, Helvetica, sans-serif
 }
 #hero-msg h1{
     text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, Helvetica, sans-serif
 } 
 #hero-msg h4{
     text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, Helvetica, sans-serif
 }
 .button-box{
     text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, Helvetica, sans-serif
 }
 main section{
     text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, Helvetica, sans-serif
 }
 #background {
     height: 725px;
 }
 body{
-    background-color:#1982C4
+    background-color:#1982C4;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
     
 }
 header{
@@ -38,41 +58,73 @@ nav a:hover{
     background-color:white;
     color:black;
     text-decoration: none;
+    font-size: 18px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 .book:hover, .join:hover{
     background-color:#D8CC34;
     color:white;
+    font-family: 'Roboto', sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, Helvetica, sans-serif
 }
 #background{
     background-color:#1982C4
 }
 .msg{
-    background-color:#FF595E
+    background-color:#FF595E;
+    line-height: 1.5em;
 }
 footer{
     background-color:#34D1BF;
-    color:black
+    color:black;
+    font-family: 'Roboto', sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 200px;
 }
 .home-title{
-    color:white
+    color:white;
+    font-family: 'Rock Salt', cursive;
+    font-family: "Brush Script MT", cursive;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 2em;
+    margin-top: 10px;
 }
 h4{
     color:white;
 }
 .msg h2{
     color:black;
+    font-family: 'Rock Salt', cursive;
+    font-family: "Brush Script MT", cursive;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 .msg p{
     color:black;
+    font-family: 'Roboto', sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .8em
 }
 footer a{
     color:white;
     text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, Helvetica, sans-serif
 }
 footer a:hover{
     color:#1982C4;
+    font-family: 'Roboto', sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, Helvetica, sans-serif
 }
 .icon {
+    width: 80px;
+}
+.logo {
     width: 80px;
 }
 #hero-img{
@@ -84,3 +136,18 @@ footer p {
 footer p a:hover {
     text-decoration: underline;
 }    
+
+h2 {
+    margin: 0;
+}
+
+.rivers-card, .camping-card, .rapids-card { 
+     margin: 200px 0;
+    }
+
+.card-img {
+    border: 10px solid #d9c2a3;
+    }
+main section img {
+    box-sizing: border-box;
+    }
