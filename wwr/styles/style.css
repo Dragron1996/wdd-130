@@ -239,7 +239,6 @@ nav {
     padding: 35px;
 }
 
-
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
@@ -281,3 +280,5 @@ nav {
         margin-top: 25px;
     }
 }
+
+
