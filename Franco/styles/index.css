@@ -13,6 +13,26 @@ nav a{
     justify-self: center;
     align-self: center;
 }
+.msg20 p{
+    font-family: 'Arima Madurai', cursive;
+    color: #503047;
+}
+.msg20 h2{
+    font-family: 'Tangerine', cursive;
+    color: #503047;
+}
+h1{
+    font-family: 'Tangerine', cursive;
+    color: #f2af29; 
+}
+h2{
+    font-family: 'Tangerine', cursive;
+    color: #f2af29; 
+}
+p{
+    font-family: 'Arima Madurai', cursive;
+    color: #f2af29;
+}
 #hero-msg h1{
     text-align: center;
     font-family: 'Arima Madurai', cursive;
@@ -369,6 +389,16 @@ nav {
     box-shadow: 5px 5px 10px #503047;
     background-color: #f2af29;
     padding: 35px;
+}
+.page1{
+    float: left;
+    height: 300px;
+    width: 300px;
+}
+.msg20{
+    text-align: left;
+    background-color: #f2af29;
+
 }
 
 .msg2{
