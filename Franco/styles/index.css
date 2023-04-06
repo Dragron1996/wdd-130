@@ -35,6 +35,8 @@ h3{
 p{
     font-family: 'Arima Madurai', cursive;
     color: #f2af29;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 #hero-msg h1{
     text-align: center;
@@ -397,12 +399,16 @@ nav {
     float: left;
     height: 201px;
     width: 201px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .msg20{
     text-align: left;
     background-color: #f2af29;
-
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .msg2{
